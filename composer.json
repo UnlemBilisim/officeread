@@ -1,0 +1,12 @@
+{
+  "name": "unlembilisim/officeread",
+  "description": "doc, docx, xlsx, pptx reader",
+  "authors": [
+    {
+      "name": "Orhan Gazi Başlı",
+      "email": "obasli@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
