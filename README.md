@@ -2,7 +2,7 @@
 Composer ile kurmak için:
 
 ```composer
-    composer require "unlembilisim/officeread" "@dev"
+    composer require unlembilisim/officeread "@dev"
 ```
 
 config/app.php
